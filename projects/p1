@@ -13,3 +13,22 @@ Configure the security groups to allow the ports as shown in the architecture.
 Test the installation by accessing the IP of the public instance in a browser via the port 8065.
 
 
+STEPS
+Step 1: VPC and Subnet Creation
+*Creation of VPC
+*Creation of public subnet
+*Creation of private subnet
+Step 2 : Internet Gateway and VPC
+*Creation and Configuration of Internet Gateway
+*Creation of Internet Gateway
+*Creation of public route table
+Step 3 : Creation of  database and application servers
+*Creation of application server
+*Creation of database server
+Step 4: Application and Database Installation and Testing
+*Installation and configuration of MySQL
+*Installation and configuration of Mattermost
+*Creation of NAT gateway
+*Creation of private route tables
+
+
