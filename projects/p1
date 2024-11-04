@@ -12,6 +12,8 @@ Install and configure Mattermost on an Amazon Linux 2 instance on the public sub
 Configure the security groups to allow the ports as shown in the architecture.
 Test the installation by accessing the IP of the public instance in a browser via the port 8065.
 
+portfolio link
+https://www.mygreatlearning.com/eportfolio/mritunjay-singh
 
 STEPS
 Step 1: VPC and Subnet Creation
