@@ -1,9 +1,9 @@
-checkos.sh
-How to check if os of the system is linux?
+**checkos.sh**
+How do I check if the os of the system is Linux?
 
-diskusgae.sh
+**diskusgae.sh**
 Script to check disk usage utilization
 
-biggestfile.sh
-Find the first 10 biggest file in the system and write the output to a file
+**biggestfile.sh**
+Find the first 10 biggest files in the system and write the output to a file
 
