@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "script to install git"
+echo "to check running operating system"
 if [ "$(uname)" == "Linux" ];
 then 
 	echo "this is linux box"
