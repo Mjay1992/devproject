@@ -13,3 +13,8 @@ This shell script will delete logs which are 30 days old
 **installprometh.sh**
 Install Prometheus software in the system and also check 
 If it already exists then just install the same
+
+**simplefor.sh**
+Script to delete a folder if it exist
+
+
