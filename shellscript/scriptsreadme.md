@@ -18,3 +18,8 @@ If it already exists then just install the same
 Script to delete a folder if it exist
 
 
+**dockerstatus.sh**
+Script to check whether a service is running or not and display the output accordingly.
+
+
+
