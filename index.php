@@ -1,6 +1,7 @@
 <pre>
 <?php
+echo "<body style='background-color:orange'>";
 print "welcome to terraform infra project <br />";
-print `ifconfig`;
+print `/usr/sbin/ifconfig`;
 ?>
 </pre>
